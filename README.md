@@ -2,9 +2,9 @@
 
 Este es un proyecto creado con [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Como iniciar
 
-In the project directory, you can run:
+Para iniciar el programa digitamos lo siguiente
 
 ### `npm start`
 
