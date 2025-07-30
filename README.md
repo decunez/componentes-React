@@ -26,3 +26,4 @@ Integra React correctamente en el modo de producción y optimiza la compilación
 La compilación se minimiza y los nombres de archivo incluyen los hashes.
 ¡Tu aplicación está lista para implementarse!
 
+<img width="1434" height="864" alt="Captura de pantalla 2025-07-29 225102" src="https://github.com/user-attachments/assets/88e8cf33-0f0f-42ea-a6b4-414f1f3e509d" />
