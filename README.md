@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Crear componentes React para representar elementos HTML
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es un proyecto creado con [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
